@@ -113,11 +113,14 @@ body {
     display: inline-block;
     color: hsl(178, 100%, 50%);
     font-weight: 300;
+    font-size: 1rem;
     letter-spacing: .0225rem;
 }
 
 .time {
     margin-left: 7px;
+    font-weight: 300;
+    font-size: 1rem;
     color: hsl(215, 51%, 70%);
 }
 
