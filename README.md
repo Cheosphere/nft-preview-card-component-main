@@ -5,6 +5,8 @@ El desafío es desarrollar este componente de tarjeta de vista previa y lograr q
 - HTML
 - CSS
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/188181570-651991e0-fc01-4570-9b8d-4c35f8269e3e.jpg)
+
 # Guía de Estilo
 
 ## Diseño
