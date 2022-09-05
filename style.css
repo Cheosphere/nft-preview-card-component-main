@@ -13,11 +13,11 @@ body {
 
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: rgb(35, 35, 35);
     display: flex;
     justify-content: center;
     align-items: center;
     color: hsl(0, 0%, 100%);
+    background-color: hsl(217, 54%, 11%);
 }
 
 /* ESTILOS CONTENEDOR PRINCIPAL */
@@ -27,7 +27,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: hsl(217, 54%, 11%);
     transition: all .4s ease-out;
 }
 
