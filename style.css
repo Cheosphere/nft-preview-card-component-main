@@ -12,6 +12,7 @@ body {
 }
 
 body {
+    min-height: 768px;
     font-family: 'Outfit', sans-serif;
     display: flex;
     justify-content: center;
@@ -23,7 +24,7 @@ body {
 /* ESTILOS CONTENEDOR PRINCIPAL */
 .container {
     width: 1440px;
-    height: 900px;
+    height: fit-content;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -167,18 +168,6 @@ hr {
 }
 
 /* MEDIA QUERY */
-@media screen and (max-width: 680px) {
-
-    body {
-        min-height: 680px;
-    }
-
-    .container {
-        height: fit-content;
-    }
-
-}
-
 @media screen and (max-width: 450px) {
 
     .container {
